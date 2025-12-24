@@ -197,6 +197,7 @@ Business storytelling with dashboards
 Building interactive Power BI reports
 
 📌 Final Outcome
+![alt text](image.png)
 
 An interactive, professional Power BI dashboard that enables data-driven decision-making and fulfills Future Interns – Task 1 requirements.
 
